@@ -1,16 +1,26 @@
-### Hi there 👋
+### Привет! 👋
 
-<!--
-**SofiaTsyvina/SofiaTsyvina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ✨ Обо мне ✨ 
+* 🎓 Образование:
+  - Неполное высшее(студент) РНИМУ им. Н.И.Пирогова: лечебное дело
+  - студент SkillFactory: курс "Профессия Data Scientist"
+* 🎓 Область научных интересов: использование методов машинного обучения и компьютерного зрения в медицине
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Проекты 📚
+
+* Кликни [сюда]() чтобы посмотреть мои проекты
+
+### 💡 Основные компетенции 💡
+- Инструменты: Python
+
+
+### ⚡️ В настоящее время ⚡️
+- 
+
+
+### 🙌🏻 Свяжись со мной
+- [Telegram]()
+
+
+---
