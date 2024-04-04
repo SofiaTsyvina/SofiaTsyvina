@@ -20,7 +20,7 @@
 
 
 ### 🙌🏻 Свяжись со мной
-- [Telegram]()
+- [Telegram](https://t.me/SofiTsyvina)
 
 
 ---
